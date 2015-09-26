@@ -21,6 +21,7 @@ build
 
 # Users Environment Variables
 .lock-wscript
+.idea
 
 # Dependencies
 node_modules
